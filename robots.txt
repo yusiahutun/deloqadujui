@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://deloqadujui.pages.dev/sitemap.xml
